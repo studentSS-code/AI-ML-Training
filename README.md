@@ -18,6 +18,9 @@ The dataset includes the following variables:
 * **Age**: Age in years
 * **Outcome**: Class variable (0 or 1)
 
+DIABETES File in csv format
+[diabetes (4).csv](https://github.com/user-attachments/files/26322929/diabetes.4.csv)
+
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
